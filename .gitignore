@@ -1,0 +1,7 @@
+AlphaFlashClient
+AlphaFlashClient.o
+AlphaFlashClient.d
+Build
+.vs
+*.vcxproj.user
+*.vcxproj.filters
